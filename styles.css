@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+#main-title.red {
+    color: red;
+}
+
+#main-title.blue {
+    color: blue;
+}
